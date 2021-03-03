@@ -1,0 +1,22 @@
+#menu-box{
+width: 100%;
+background-color: grey;
+}
+.main-menu {
+  display:flex;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  width: 100px;
+}
+.main-menu a {
+  background-color: #949494;
+  color: #fff;
+  padding: 5px;
+  font-weight: bold;
+  display: block;
+}
+.main-menu li {
+border: solid 1px black;
+border-radius: 2px;
+}
